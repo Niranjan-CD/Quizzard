@@ -1,0 +1,14 @@
+requests
+news-please
+lxml_html_clean
+langchain
+langchain-openai
+python-dotenv
+unstructured
+networkx
+pandas
+openpyxl
+faiss-cpu
+flask
+flask_cors
+firebase_admin

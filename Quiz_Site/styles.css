@@ -1,0 +1,81 @@
+body {
+    background-color: #1e1e1e;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh; /* Ensure full viewport height */
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  form {
+    width: 100%;
+    max-width: 90%; /* Limit form width for responsiveness */
+  }
+  
+  #urlInputs {
+    width: 100%;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  input[type="url"] {
+    width: calc(100% - 80px); /* Adjust width for Add button */
+    padding: 5px;
+    margin: 5px 10px;
+    box-sizing: border-box;
+  }
+  
+  .add-button,
+  .remove-button,
+  .submit-button {
+    margin: 0 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+  }
+  
+  .add-button {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .remove-button {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .submit-button {
+    background-color: #008CBA;
+    color: white;
+  }
+  
+  textarea {
+    width: 100%;
+    height: 200px;
+    /* scroll-behavior: unset; */
+    margin-top: 20px;
+    resize: vertical;
+  }
+  
+  #responseContainer {
+    width: 85%;
+    
+    padding: 10px;
+    border: 1px solid #ffffff;
+    background-color: #333333;
+    margin-top: 20px;
+  }
+  

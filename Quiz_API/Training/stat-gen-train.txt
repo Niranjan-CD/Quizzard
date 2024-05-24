@@ -1,0 +1,34 @@
+Question: What is the initial electricity production target of India's first geothermal energy plant?
+Option 1: 1 MW 
+Option 2: 50 MW 
+Option 3: 100 MW 
+Option 4: 200 MW 
+Correct Option: Option 1
+
+Question: What is the rate at which the largest AI training processes have been consuming computing power since 2012?
+Option 1: Doubling every 3.4 months 
+Option 2: Doubling every 6 months 
+Option 3: Doubling every year 
+Option 4: Doubling every 2 years 
+Correct Option: Option 1
+
+Question: What percentage of global energy use do data centres and transmission networks contribute to?
+Option 1: 0.5% 
+Option 2: 1.5% 
+Option 3: 2% 
+Option 4: 3% 
+Correct Option: Option 2
+
+Question: How does the carbon emissions from a single query to ChatGPT compare to a regular Google search?
+Option 1: Generates much more carbon 
+Option 2: Generates slightly more carbon 
+Option 3: Generates the same amount of carbon 
+Option 4: Generates less carbon 
+Correct Option: Option 1
+
+Question: By what percentage was the wind power generation forecasting improved by AI technology developed by DeepMind at Google compared to existing systems?
+Option 1: 10% 
+Option 2: 20% 
+Option 3: 30% 
+Option 4: 40% 
+Correct Option: Option 2
